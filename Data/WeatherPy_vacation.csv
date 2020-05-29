@@ -28,7 +28,7 @@ Hun,LY,85.28,clear sky,29.13,15.95,Alrwasi Hotel
 Livingstonia,MW,68.43,light rain,-10.61,34.11,Stone House Guest House
 Buchanan,LR,89.6,broken clouds,5.88,-10.05,Kamaneahn Hotel Inc
 Lebu,CL,54.09,scattered clouds,-37.62,-73.65,Hostal Las Lilas
-Luderitz,,73.4,clear sky,-26.65,15.16,LÜDERITZ NEST HOTEL
+Luderitz,"""NA""",73.4,clear sky,-26.65,15.16,LÜDERITZ NEST HOTEL
 Sitka,US,55.4,broken clouds,57.05,-135.33,Westmark Sitka
 Tautira,PF,77.0,clear sky,-17.73,-149.15,Pension Oaoa
 Kapaa,US,75.2,broken clouds,22.08,-159.32,Sheraton Kauai Resort at Coconut Beach
@@ -112,7 +112,6 @@ Talcahuano,CL,51.8,broken clouds,-36.72,-73.12,Hotel Terramar
 Namatanai,PG,79.34,light rain,-3.67,152.43,Namatanai Hotel
 Rawson,AR,52.86,overcast clouds,-43.3,-65.1,Hotel Punta León
 Moranbah,AU,60.53,broken clouds,-22.0,148.05,Direct Hotels - Monterey Moranbah
-Marzuq,YE,91.94,few clouds,14.4,46.47,
 Avarua,CK,77.0,broken clouds,-21.21,-159.78,Paradise Inn
 Panipat,IN,89.96,overcast clouds,29.39,76.97,SPOT ON 68644 Shri Shyam Guest House
 Sao Felix Do Xingu,BR,86.79,scattered clouds,-6.64,-51.99,Apart Hotel Rio Xingu
@@ -133,7 +132,7 @@ Los Llanos De Aridane,ES,73.4,scattered clouds,28.66,-17.92,Valle Aridane
 Igrim,RU,54.73,broken clouds,63.19,64.42,Obshchezhitiye Uchebno-Proizvodstvennogo Tsentra
 Mantua,IT,81.0,scattered clouds,45.17,10.78,Hotel la Favorita
 Half Moon Bay,US,62.01,few clouds,37.46,-122.43,"The Ritz-Carlton, Half Moon Bay"
-Three Hills,CA,57.99,clear sky,51.7,-113.27,Super 8 by Wyndham Three Hills AB
+Three Hills,CA,57.99,clear sky,51.7,-113.27,Best Western Diamond Inn
 Hasaki,JP,64.4,broken clouds,35.73,140.83,Inubosaki Kanko Hotel
 Broken Hill,AU,53.6,clear sky,-31.95,141.43,Daydream Motel & Cottages
 Bethel,US,72.0,overcast clouds,41.37,-73.41,Courtyard by Marriott Danbury
@@ -150,13 +149,11 @@ Khasan,RU,55.49,clear sky,42.43,130.64,Krako Motorkár
 Ormara,PK,86.23,few clouds,25.21,64.64,
 Mikkeli,FI,60.8,few clouds,61.69,27.27,"Original Sokos Hotel Vaakuna, Mikkeli"
 Matangad,PH,75.99,overcast clouds,8.58,124.37,Lagoon Beach Resort
-Tera,NE,91.9,overcast clouds,14.01,0.75,Hotel Daressalam Téra
 Digha,IN,84.83,clear sky,21.68,87.55,Khoniker Atithi
 Mandan,US,60.8,clear sky,46.83,-100.89,Twin City Estates
 Hoquiam,US,57.99,clear sky,46.98,-123.89,Econo Lodge Inn & Suites
 Daru,PG,78.01,light rain,-9.08,143.21,New century hotel
 Kamaishi,JP,54.39,clear sky,39.27,141.88,Hotel Route Inn Kamaishi
-Qurayyat,SA,91.4,clear sky,31.33,37.34,Mozon Furnished Aprtments
 Tonantins,BR,80.58,light rain,-2.87,-67.8,Hotel Rei Davi
 Avera,US,75.2,overcast clouds,33.19,-82.53,
 Vostochnyy,RU,68.0,overcast clouds,55.82,37.87,MarianHall
@@ -171,7 +168,6 @@ Victoria,HK,80.01,clear sky,22.29,114.16,Mini Hotel Central
 Mkushi,ZM,74.75,scattered clouds,-13.62,29.39,Njombe Lodge
 Tubuala,PA,81.0,broken clouds,9.52,-79.03,
 Concordia,AR,63.0,clear sky,-31.39,-58.02,Palmar Hotel Casino
-Sawakin,SD,91.87,clear sky,19.11,37.33,فندق الدويم
 Puerto Barrios,GT,82.4,scattered clouds,15.72,-88.6,Amatique Bay Resort & Marina
 Mount Isa,AU,66.2,overcast clouds,-20.73,139.5,ibis Styles Mt Isa Verona
 Grand Gaube,MU,75.0,scattered clouds,-20.01,57.66,Veranda Paul et Virginie Hotel & Spa
@@ -227,7 +223,6 @@ Leh,IN,51.12,broken clouds,34.17,77.58,Hotel Ladakh Greens
 Wajima,JP,59.99,clear sky,37.4,136.9,Wajiima Onsen Yashio
 Chirongui,YT,80.6,scattered clouds,-12.93,45.15,La Villa Mahatsara
 Vila Franca Do Campo,PT,64.4,few clouds,37.72,-25.43,Pestana Bahia Praia
-Matias Romero,MX,90.32,overcast clouds,16.88,-95.03,Casa Don Gustavo
 Altay,CN,55.18,broken clouds,47.87,88.12,Jinqiao Hotel
 Hofn,IS,50.0,haze,64.25,-15.21,Hótel Höfn
 Broome,US,75.0,overcast clouds,42.25,-75.83,Chenango Valley State Park
@@ -293,7 +288,6 @@ Cam Ranh,VN,86.0,few clouds,11.92,109.16,OYO 598 Peony Hotel
 Quibdo,CO,82.31,light rain,5.69,-76.66,Hotel Angeles
 San Buenaventura,MX,84.0,clear sky,27.08,-101.53,Hotel Gran Plaza
 Washington,US,60.01,overcast clouds,47.5,-120.5,"Cashmere Cider Mill Guest Suites, Weddings & Tasting Room"
-Sao Benedito Do Rio Preto,BR,91.24,clear sky,-3.33,-43.53,João de Barro Hotel
 Bacolod,PH,81.86,overcast clouds,10.67,122.95,Planta Hotel & Residences
 Ampanihy,MG,68.43,broken clouds,-24.7,44.75,Angora Hotel
 Altamira,BR,85.55,light rain,-3.2,-52.21,Requinte Hotel
@@ -316,7 +310,6 @@ Kirkland Lake,CA,73.4,broken clouds,48.14,-80.04,Comfort Inn
 Cayenne,GF,82.4,light rain,4.93,-52.33,Hôtel Le Dronmi
 Clarence Town,AU,55.99,light rain,-32.58,151.78,River Downs Cottage
 Korla,CN,74.23,clear sky,41.76,86.15,Gulisitan Hotel
-Edd,ER,91.17,overcast clouds,13.93,41.69,
 Bonga,ET,65.52,light rain,7.28,36.23,Harone Hotel ሀሮኔ ሆቴል
 Poum,NC,75.67,broken clouds,-20.23,164.02,Gîte kajeon
 Meulaboh,ID,81.12,overcast clouds,4.14,96.13,Kost Pria
@@ -331,7 +324,6 @@ San Cristobal,VE,82.4,scattered clouds,7.77,-72.22,Pirineos
 Sao Gabriel Da Cachoeira,BR,86.18,light rain,-0.13,-67.09,Alarne - Área De Lazer Do Alto Rio Negro
 Fortuna,US,57.0,overcast clouds,40.6,-124.16,Super 8 by Wyndham Fortuna
 Tevaitoa,PF,81.99,light rain,-16.78,-151.5,Hôtel Raiatea Lodge
-Marrakesh,MA,91.4,scattered clouds,31.63,-8.01,Les Jardins de La Koutoubia
 Axim,GH,84.33,light rain,4.87,-2.24,AXIM BEACH RESORT AND SPA
 Superior,US,68.0,overcast clouds,46.72,-92.1,Holiday Inn Express & Suites Superior - Duluth Area
 Havelock,US,75.0,light rain,34.88,-76.9,Holiday Inn Express and Suites Havelock
@@ -355,7 +347,6 @@ Iskateley,RU,56.7,overcast clouds,67.68,53.15,Hostel Agat
 Georgiyevka,KZ,71.6,clear sky,43.04,74.71,Gostinitsa Dostyk 1 U Zheni
 Providencia,MX,82.99,clear sky,28.72,-111.58,
 Nelson Bay,AU,55.99,light rain,-32.72,152.15,Mantra Nelson Bay
-Kamphaeng Phet,TH,91.99,broken clouds,16.48,99.52,Chakungrao Riverview
 Zhuanghe,CN,59.0,overcast clouds,39.7,122.99,Hanting Express Dalian Zhuanghe Qiansheng
 Burnie,AU,50.0,scattered clouds,-41.07,145.92,Beachfront Voyager Motor Inn
 Haines Junction,CA,52.32,clear sky,60.75,-137.51,Parkside Inn
@@ -442,7 +433,6 @@ Peniche,PT,87.01,clear sky,39.36,-9.38,Hotel Star inn Peniche
 Otradnoye,RU,59.0,broken clouds,59.78,30.82,Baza otdikha Petrushinsky Khutor
 Gigmoto,PH,81.48,clear sky,13.78,124.39,Cj's Travellers Inn
 Deep River,CA,73.4,scattered clouds,46.1,-77.5,Deep River Motel
-Bangassou,CF,91.18,overcast clouds,4.74,22.82,
 Micheweni,TZ,79.9,clear sky,-4.97,39.83,
 Alihe,CN,59.13,overcast clouds,50.57,123.72,Alihe Forestry Hotel
 Mercedes,AR,66.0,clear sky,-34.65,-59.43,Posada del Inti Centro
