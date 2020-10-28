@@ -13,4 +13,4 @@ For the new modifications to the PlanMyTrip app, this project adds more data to 
 ### Data:
 - <[Weather Data](https://openweathermap.org/)>
 - <[Challenge Data](https://github.com/Muzznah/World_Weather_Analysis/blob/master/Data/WeatherPy_challenge.csv)>
-- <[Vaction Data]https://github.com/Muzznah/World_Weather_Analysis/blob/master/Data/WeatherPy_vacation.csv>
+- <[Vaction Data](https://github.com/Muzznah/World_Weather_Analysis/blob/master/Data/WeatherPy_vacation.csv>
